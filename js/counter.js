@@ -5,7 +5,7 @@ xhttp.onreadystatechange = function() {
     
     }
 };
-xhttp.open("POST", "http://localhost/scriptkma/terrific/addView/", true);
+xhttp.open("POST", "https://breaktxt.000webhostapp.com/addView/", true);
 xhttp.onload=function(){
 
 }
