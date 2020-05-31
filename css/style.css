@@ -1,4 +1,7 @@
-
+html
+{
+    font-size: 16px;
+}
 #adv>.adv1
 {
     border: #000 solid 1px;
@@ -15,7 +18,7 @@
 
 .card5 img
 {
-    width: 250px;
+    /* width: 250px; */
     border-radius: 80px;
     border: #17a2b8 2px solid;
     transition: ease-in-out .2s;   
